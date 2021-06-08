@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hannapa1114
 - 👀 I’m interested in Javascript, Java, Deep Learning and Block Chain
-- 🌱 I’m currently learning Spring4.0 and NestJS
+- 🌱 I’m currently learning TDD
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me flexaveler@gmail.com
 

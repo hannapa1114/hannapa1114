@@ -2,8 +2,8 @@
 
 
 - 👋 Hi, I’m @hannapa1114
-- 👀 I’m interested in Javascript, Java, Deep Learning and Block Chain
-- 🌱 I’m currently learning TDD
+- 👀 I’m interested in Javascript, Go, Deep Learning and Block Chain
+- 🌱 I’m currently learning TDD, CS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me flexaveler@gmail.com
 
@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/linux-3766AB?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/spring&ndash;boot-92ad65?style=flat-square&logo=Spring-boot&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/stack&ndash;overflow-adb8c0?style=flat-square&logo=Stack-overflow&logoColor=ffae6a"/></a>&nbsp;
+<img src="https://img.shields.io/badge/express-fff?style=flat-square&logo=express&logoColor=808081"/></a>&nbsp;
 </p>
 
 <!---

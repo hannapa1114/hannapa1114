@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/redux-3766AB?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/typescript-3766AB?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/vue.js-2f9e77?style=flat-square&logo=Vuetify&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/express-fff?style=flat-square&logo=express&logoColor=808081"/></a>&nbsp;
 <img src="https://img.shields.io/badge/mysql-32708d?style=flat-square&logo=Mysql&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/aws-ff953f?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/electron-3766AB?style=flat-square&logo=Electron&logoColor=white"/></a>&nbsp;
@@ -25,7 +26,6 @@
 <img src="https://img.shields.io/badge/linux-3766AB?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/spring&ndash;boot-92ad65?style=flat-square&logo=Spring-boot&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/stack&ndash;overflow-adb8c0?style=flat-square&logo=Stack-overflow&logoColor=ffae6a"/></a>&nbsp;
-<img src="https://img.shields.io/badge/express-fff?style=flat-square&logo=express&logoColor=808081"/></a>&nbsp;
 </p>
 
 <!---

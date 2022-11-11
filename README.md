@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/svelte.js-fff?style=flat-square&logo=Svelte&logoColor=red"/></a>&nbsp;
 <img src="https://img.shields.io/badge/tailwindcss-fff?style=flat-square&logo=Tailwindcss&logoColor=58b6d3"/></a>&nbsp;
 <img src="https://img.shields.io/badge/styled&ndash;components-ff9cb5?style=flat-square&logo=Styled-components&logoColor=white"/></a>&nbsp;
-<img src="[https://img.shields.io/badge/nextjs-3766AB?style=flat-square&logo=React&logoColor=white](https://img.shields.io/badge/vercel-next.js-blue)"/></a>&nbsp;
+<img src="https://img.shields.io/badge/nextjs-3766AB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/redux-3766AB?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/react-3766AB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/typescript-3766AB?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp;

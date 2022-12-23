@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @hannapa1114
 - 👀 I’m interested in Javascript, Go, Deep Learning and Block Chain
-- 🌱 I’m currently learning Nextjs
+- 🌱 I’m currently learning and using Nextjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me flexaveler@gmail.com
 

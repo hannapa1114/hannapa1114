@@ -2,9 +2,9 @@
 
 
 - 👋 Hi, I’m @hannapa1114
-- 👀 I’m interested in Javascript, Go, Deep Learning and Block Chain
+- 👀 I’m interested in Javascript, Deep Learning
 - 🌱 I’m currently learning and using Nextjs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m exploring stackoverflow
 - 📫 How to reach me flexaveler@gmail.com
 - ✍️ I'm posting at [Tistory](https://bedevelopers.tistory.com/)
 

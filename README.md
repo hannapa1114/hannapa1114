@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff0000&section=header&height=300&text=Jimyeong&nbsp;Song&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=55d2ff&section=header&height=300&text=Jimyeong&nbsp;Song&fontSize=50&fontColor=ffffff)
 
 
 - 👋 Hi, I’m @hannapa1114

@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning and using Nextjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me flexaveler@gmail.com
+- ✍️ I'm posting at [Tistory](https://bedevelopers.tistory.com/)
 
 <h3 align="center">🛠 Stack 🛠</h3>
 

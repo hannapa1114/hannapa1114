@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @hannapa1114
 - 👀 I’m interested in Javascript, Deep Learning
-- 🌱 I’m currently learning and using Nextjs
+- 🌱 I’m currently learning and using Nextjs, Rust
 - 💞️ I’m exploring stackoverflow
 - 📫 How to reach me flexaveler@gmail.com
 - ✍️ I'm posting at [Tistory](https://bedevelopers.tistory.com/)

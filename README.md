@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/aws-ff953f?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/python-1e94b2?style=flat-square&logo=Python&logoColor=f0db4f"/></a>&nbsp;
 <img src="https://img.shields.io/badge/linux-3766AB?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/rust-fff?style=flat-square&logo=Rust&logoColor=red"/></a>&nbsp;
 </p>
 
 <!---

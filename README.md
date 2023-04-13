@@ -13,7 +13,10 @@
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-f0db4f?style=flat-square&logo=Javascript&logoColor=323330"/></a>&nbsp;
 <img src="https://img.shields.io/badge/react-3766AB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/nextjs-3766AB?style=flat-square&logo=Vercel&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/nextjs-3766AB?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/vue-fff?style=flat-square&logo=vue.js&logoColor=%234FC08D"/></a>&nbsp;
+<img src="https://img.shields.io/badge/nuxtjs-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=#00DC82"/></a>&nbsp;
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" /></a>&nbsp;
 <img src="https://img.shields.io/badge/tailwindcss-fff?style=flat-square&logo=Tailwindcss&logoColor=58b6d3"/></a>&nbsp;
 <img src="https://img.shields.io/badge/styled&ndash;components-ff9cb5?style=flat-square&logo=Styled-components&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/redux-3766AB?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp;

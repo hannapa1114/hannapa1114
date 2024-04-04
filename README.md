@@ -2,8 +2,8 @@
 
 
 - 👋 Hi, I’m @hannapa1114
-- 👀 I’m interested in Javascript, Deep Learning
-- 🌱 I’m currently learning and using Nextjs, Rust
+- 👀 I’m interested in Javascript, Deep Learning, Blockchain
+- 🌱 I’m currently learning Rust
 - 💞️ I’m exploring official docs, stackoverflow, chat-gpt
 - 📫 How to reach me flexaveler@gmail.com
 - ✍️ I'm posting at [Tistory](https://bedevelopers.tistory.com/)
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/aws-ff953f?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/python-1e94b2?style=flat-square&logo=Python&logoColor=f0db4f"/></a>&nbsp;
 <img src="https://img.shields.io/badge/linux-3766AB?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/rust-fff?style=flat-square&logo=Rust&logoColor=red"/></a>&nbsp;
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>&nbsp;
 </p>
 
 <!---
